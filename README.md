@@ -1,6 +1,6 @@
 ### Implementation Code for exemplary-XBL
 
-This repository contains an implementation source code for the exemplary XBL algorithm. The published paper can be found at [this link](https://link.springer.com/chapter/10.1007/978-3-031-45275-8_26#Sec6).
+This repository contains an implementation source code for the exemplary XBL algorithm. The published paper can be found at [this link](https://link.springer.com/chapter/10.1007/978-3-031-45275-8_26).
 
 To install all requirements: 
 ```
